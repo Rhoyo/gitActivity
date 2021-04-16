@@ -3,4 +3,4 @@ def calcu(a, b):
 	print(sum)
 	difference = a-b
 	multiply = a*b
-
+	divide = a/b
